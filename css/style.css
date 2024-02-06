@@ -1,0 +1,17 @@
+.menu i.material-icons{
+    font-size: 30px;
+    color: #0d47a1;
+}
+
+.d-flex-vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.card-image img {
+    width: 70px !important;
+}
+
+.osnova{
+    background-color: #bbdefb;
+}
